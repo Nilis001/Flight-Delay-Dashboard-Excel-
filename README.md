@@ -26,4 +26,4 @@ Built entirely in **Excel**, it transforms raw data into an interactive and prof
 3. Explore interactive KPIs and charts.
 
 ## 📌 Author
-Built with 💡 by [Your Name]
+Built with 💡 by Nilis Akpassonou
